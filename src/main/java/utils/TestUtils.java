@@ -34,5 +34,22 @@ public class TestUtils extends Driver{
 		
 		return prop;
 	}
+	
+	public String []  directTVPageActual(String actual) {
+		
+		if(actual.isEmpty()) return null;	
+		String [] actualArr = actual.split(" ");
+		
+		return actualArr;	
+	}
+	
+	public String []  directTVPageExpected(String expected) {
+		
+		if(expected.isEmpty()) return null;	
+		String [] expectedArr = expected.split(" ");
+		
+		return expectedArr;	
+	}
+	 
 
 }

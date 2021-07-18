@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="88486" started-at="2021-07-18T15:00:03 EDT" finished-at="2021-07-18T15:01:32 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="88486" started-at="2021-07-18T15:00:03 EDT" finished-at="2021-07-18T15:01:32 EDT">
+      <class name="tests.Tests">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.Tests@7c29daf3]" name="setup" is-config="true" duration-ms="20726" started-at="2021-07-18T15:00:03 EDT" finished-at="2021-07-18T15:00:24 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testingUrl()[pri:0, instance:tests.Tests@7c29daf3]" name="testingUrl" duration-ms="11" started-at="2021-07-18T15:00:24 EDT" finished-at="2021-07-18T15:00:24 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingUrl -->
+        <test-method status="PASS" signature="tearDowon()[pri:0, instance:tests.Tests@7c29daf3]" name="tearDowon" is-config="true" duration-ms="67675" started-at="2021-07-18T15:00:24 EDT" finished-at="2021-07-18T15:01:32 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDowon -->
+      </class> <!-- tests.Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
