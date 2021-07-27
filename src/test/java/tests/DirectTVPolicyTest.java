@@ -25,5 +25,6 @@ public class DirectTVPolicyTest extends TestBase{
 	
 	public void gitTest() {
 		// this is a testing method for git
+		// one more line added
 	}
 }
